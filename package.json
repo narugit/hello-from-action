@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "narugit",
   "license": "ISC",
   "dependencies": {
     "@actions/core": "^1.11.1",
